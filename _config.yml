@@ -1,0 +1,28 @@
+name: Francisco Ybarra
+favicon: null
+layout_spectrum: 0.8786298164632171
+typography_spectrum: 0.6379507926758379
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2900690701790154
+  lightness: 0.8549199744593352
+  saturation: 0.27719046943821013
+  rhythmicContrast: 0.716748291393742
+purpose: []
